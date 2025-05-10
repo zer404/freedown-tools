@@ -1,2 +1,0 @@
-2025-04-05 00:32:19,403 - FreedomProtector - INFO - 程序启动，运行平台：darwin
-2025-04-05 00:32:19,492 - FreedomProtector - ERROR - 无法导入freedom_tool模块，请确保freedom_tool.py存在于当前目录
